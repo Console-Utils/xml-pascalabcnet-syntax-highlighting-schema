@@ -1,2 +1,3 @@
-# xml-pascalabcnet-syntax-highlighting-schema
+# Syntax highlighting schema
+
 PascalABC.NET syntax highlighting schema.
